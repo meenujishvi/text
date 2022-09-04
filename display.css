@@ -1,0 +1,26 @@
+.row{
+    width: 75%;
+    height: 600px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.col{
+    height: 400px;
+    width: 200px;
+    border: green 2px solid;
+}
+.col-1{
+    background-color: blue;
+}
+.col-2{
+    background-color: rgb(192, 45, 99);
+}
+.col-3{
+    background-color: rgb(230, 230, 37);
+}
+.col-4{
+    background-color: rgb(154, 79, 105);
+}
